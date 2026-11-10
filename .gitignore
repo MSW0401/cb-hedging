@@ -1,0 +1,7 @@
+# 원자료 · 입력 · 실행 결과표 · 캐시는 올리지 않음
+data/
+work/
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
